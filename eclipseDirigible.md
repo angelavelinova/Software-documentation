@@ -36,7 +36,7 @@ Nowadays, providing a full-stack application development platform is not enough.
 
 **3.1.Link with video tutorial:**
 
-[https://www.youtube.com/watch?v=GwzxjBAhy\_4&amp;amp=&amp;list=PLNKd01MEkVeKf74MdK5cUzgQKiiTyarkG](https://www.youtube.com/watch?v=GwzxjBAhy_4&amp;amp=&amp;list=PLNKd01MEkVeKf74MdK5cUzgQKiiTyarkG)
+[youtube](https://www.youtube.com/watchv=GwzxjBAhy_4&amp;amp=&amp;list=PLNKd01MEkVeKf74MdK5cUzgQKiiTyarkG)
 
 **3.2. Steps:**
 
